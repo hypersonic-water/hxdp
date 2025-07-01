@@ -54,7 +54,7 @@ Show help message and exit
 
 ## Limitations
 - Only works on Unix-like systems due to use of system-specific calls (`termios`, `ioctl`, `unistd.h`).
-- Does not support editing of files — it is a read-only viewer.
+- Does not support editing of files (read-only viewer).
 - Terminal size must be sufficient to display full output. Resizing is not handled dynamically.
 
 ## Future Plans
