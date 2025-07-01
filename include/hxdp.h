@@ -5,4 +5,5 @@
 #include "dump.h"
 #include "message.h"
 #include "argsparse.h"
+#include <stdint.h>
 #endif //HXDP_H

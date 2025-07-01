@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <errno.h>
-#include "../include/argsparse.h"
-#include "../include/term.h"
+#include "../include/hxdp.h"
 
 
 void usage() {
